@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <link rel="stylesheet" type="text/css" href="./style.css">
 
+<img class="logo" src="EarthBox.jpg">
+    
+<div class="topnav">
+    <a class="active" href="home.html">Home</a>
+    <a href="impact.html">Impact</a>
+    <a href="places.html">What We Offer</a>
+    <a href="contact.php">Contact Us</a>
+</div>
+
 <div class="container">
 
 	<form action="contact.php" method="POST">
