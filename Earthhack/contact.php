@@ -6,9 +6,9 @@
         Enter Name: <input type="text" name="Name" required="required" /> <br/>
         Enter Email: <input type="text" name="Email" required="required" /> <br/>
         Enter Store Name: <input type="text" name="StoreName" required="required" /> <br/>
-        Enter Store Address: <input type="text" name="StoreAddress" required="required"> /> <br/>
-        Enter Quantity of Cardboard Needed: <input type="text" name="CardboardQuantity" required="required"> /> <br/>
-        Enter Quantity of Face Shields Needed: <input type="text" name="FaceshieldQuantity" required="required"> /> <br/>
+        Enter Store Address: <input type="text" name="StoreAddress" required="required"> <br/>
+        Enter Quantity of Cardboard Needed: <input type="text" name="CardboardQuantity" required="required"> <br/>
+        Enter Quantity of Face Shields Needed: <input type="text" name="FaceshieldQuantity" required="required"> <br/>
         <input type="submit" value="Contact"/>
     </form>
 </body>
